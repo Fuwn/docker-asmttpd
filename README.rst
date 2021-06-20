@@ -8,7 +8,7 @@ Building
 
 Building your own images of this repository should only be used for
 developmental purposes! If you are a consumer, use the
-[prebuilt images](https://hub.docker.com/r/fuwn/asmttpd).
+`prebuilt images <https://hub.docker.com/r/fuwn/asmttpd>`_!
 
 .. code-block:: shell
 
